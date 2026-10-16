@@ -1,0 +1,25 @@
+Das Erste	DasErste.de	Allgemein	https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+ZDF	ZDF.de	Allgemein	https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+ZDFneo	ZDFneo.de	Allgemein	https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+ZDFinfo	ZDFinfo.de	Nachrichten	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+3sat	3sat.de	Allgemein	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+phoenix	phoenix.de	Nachrichten	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+tagesschau24	tagesschau24.de	Nachrichten	https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+arte	arte.de	Kultur	https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+KiKA	KiKA.de	Kinder	https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+ARD-alpha	ARDalpha.de	Bildung	https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+BR Fernsehen	BRFernsehen.de	Regional	https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+hr-fernsehen	hrfernsehen.de	Regional	https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+MDR Sachsen	MDRFernsehen.de	Regional	https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+MDR Sachsen-Anhalt	MDRFernsehen.de	Regional	https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+NDR Hamburg	NDRFernsehen.de	Regional	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+NDR Niedersachsen	NDRFernsehen.de	Regional	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+NDR Schleswig-Holstein	NDRFernsehen.de	Regional	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+NDR Mecklenburg-Vorpommern	NDRFernsehen.de	Regional	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+rbb Berlin	rbbFernsehen.de	Regional	https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+rbb Brandenburg	rbbFernsehen.de	Regional	https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+Radio Bremen	RadioBremenFernsehen.de	Regional	https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+SR Fernsehen	SRFernsehen.de	Regional	https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+SWR Baden-Württemberg	SWRFernsehen.de	Regional	https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+SWR Rheinland-Pfalz	SWRFernsehen.de	Regional	https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+WDR Köln	WDRFernsehen.de	Regional	https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
