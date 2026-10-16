@@ -9,3 +9,4 @@
 - Keine Streams von Drittanbietern/Weiterverteilern aufnehmen, nur offizielle Sender-CDNs.
 - Logos liegen als Dateien in `logos/` (selbst gehostet, weil Wikimedia/imgur bei vielen parallelen Abrufen drosseln). Neues Logo: Datei nach `logos/` legen und die Raw-URL in die 5. Spalte der .tsv eintragen.
 - Jellyfin kennt kein Radio-Merkmal in M3U: Kanalbereiche (TV ab 1, International ab 500, Radio ab 1000) und das Namenspräfix 📻 für Radio kommen aus `build.py`.
+- Programmführer (EPG): Drittanbieter-Datei https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz (nicht von uns, kann wegfallen). Die tvg-ids der TV-Sender in `tv.tsv` sind an deren IDs angeglichen (z. B. `Das.Erste.de`); Regionalsender teilen sich die ID der Anstalt (`NDR.de`). Radio, International und Radio Bremen haben dort keine Daten. Eigener Grabber wurde aus rechtlichen Gründen nicht eingesetzt.
