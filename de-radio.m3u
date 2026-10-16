@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Deutschlandfunk" tvg-name="Deutschlandfunk" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk.png" group-title="Radio",Deutschlandfunk
+#EXTINF:-1 tvg-id="Deutschlandfunk" tvg-chno="1000" tvg-name="📻 Deutschlandfunk" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk.png" group-title="Radio",📻 Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="Deutschlandfunk Kultur" tvg-name="Deutschlandfunk Kultur" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk-kultur.png" group-title="Radio",Deutschlandfunk Kultur
+#EXTINF:-1 tvg-id="Deutschlandfunk Kultur" tvg-chno="1001" tvg-name="📻 Deutschlandfunk Kultur" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk-kultur.png" group-title="Radio",📻 Deutschlandfunk Kultur
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="Deutschlandfunk Nova" tvg-name="Deutschlandfunk Nova" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk-nova.png" group-title="Radio",Deutschlandfunk Nova
+#EXTINF:-1 tvg-id="Deutschlandfunk Nova" tvg-chno="1002" tvg-name="📻 Deutschlandfunk Nova" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-deutschlandfunk-nova.png" group-title="Radio",📻 Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="WDR 1LIVE" tvg-name="WDR 1LIVE" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-1live.png" group-title="Radio",WDR 1LIVE
+#EXTINF:-1 tvg-id="WDR 1LIVE" tvg-chno="1003" tvg-name="📻 WDR 1LIVE" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-1live.png" group-title="Radio",📻 WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 2" tvg-name="WDR 2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-2.png" group-title="Radio",WDR 2
+#EXTINF:-1 tvg-id="WDR 2" tvg-chno="1004" tvg-name="📻 WDR 2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-2.png" group-title="Radio",📻 WDR 2
 https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 3" tvg-name="WDR 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-3.png" group-title="Radio",WDR 3
+#EXTINF:-1 tvg-id="WDR 3" tvg-chno="1005" tvg-name="📻 WDR 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-3.png" group-title="Radio",📻 WDR 3
 https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 5" tvg-name="WDR 5" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-5.png" group-title="Radio",WDR 5
+#EXTINF:-1 tvg-id="WDR 5" tvg-chno="1006" tvg-name="📻 WDR 5" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-wdr-5.png" group-title="Radio",📻 WDR 5
 https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR 2" tvg-name="NDR 2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-2.png" group-title="Radio",NDR 2
+#EXTINF:-1 tvg-id="NDR 2" tvg-chno="1007" tvg-name="📻 NDR 2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-2.png" group-title="Radio",📻 NDR 2
 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR Info" tvg-name="NDR Info" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-info.png" group-title="Radio",NDR Info
+#EXTINF:-1 tvg-id="NDR Info" tvg-chno="1008" tvg-name="📻 NDR Info" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-info.png" group-title="Radio",📻 NDR Info
 https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR Kultur" tvg-name="NDR Kultur" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-kultur.png" group-title="Radio",NDR Kultur
+#EXTINF:-1 tvg-id="NDR Kultur" tvg-chno="1009" tvg-name="📻 NDR Kultur" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-ndr-kultur.png" group-title="Radio",📻 NDR Kultur
 https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="Bayern 1" tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-bayern-1.png" group-title="Radio",Bayern 1
+#EXTINF:-1 tvg-id="Bayern 1" tvg-chno="1010" tvg-name="📻 Bayern 1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-bayern-1.png" group-title="Radio",📻 Bayern 1
 https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
-#EXTINF:-1 tvg-id="Bayern 3" tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-bayern-3.png" group-title="Radio",Bayern 3
+#EXTINF:-1 tvg-id="Bayern 3" tvg-chno="1011" tvg-name="📻 Bayern 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-bayern-3.png" group-title="Radio",📻 Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 tvg-id="BR-Klassik" tvg-name="BR-Klassik" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-br-klassik.png" group-title="Radio",BR-Klassik
+#EXTINF:-1 tvg-id="BR-Klassik" tvg-chno="1012" tvg-name="📻 BR-Klassik" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-br-klassik.png" group-title="Radio",📻 BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
-#EXTINF:-1 tvg-id="SWR3" tvg-name="SWR3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr3.png" group-title="Radio",SWR3
+#EXTINF:-1 tvg-id="SWR3" tvg-chno="1013" tvg-name="📻 SWR3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr3.png" group-title="Radio",📻 SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
-#EXTINF:-1 tvg-id="SWR1 Baden-Württemberg" tvg-name="SWR1 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr1-baden-wuerttemberg.png" group-title="Radio",SWR1 Baden-Württemberg
+#EXTINF:-1 tvg-id="SWR1 Baden-Württemberg" tvg-chno="1014" tvg-name="📻 SWR1 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr1-baden-wuerttemberg.png" group-title="Radio",📻 SWR1 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
-#EXTINF:-1 tvg-id="SWR2" tvg-name="SWR2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr2.png" group-title="Radio",SWR2
+#EXTINF:-1 tvg-id="SWR2" tvg-chno="1015" tvg-name="📻 SWR2" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr2.png" group-title="Radio",📻 SWR2
 https://liveradio.swr.de/sw282p3/swr2/play.mp3
-#EXTINF:-1 tvg-id="SWR4 Baden-Württemberg" tvg-name="SWR4 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr4-baden-wuerttemberg.png" group-title="Radio",SWR4 Baden-Württemberg
+#EXTINF:-1 tvg-id="SWR4 Baden-Württemberg" tvg-chno="1016" tvg-name="📻 SWR4 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-swr4-baden-wuerttemberg.png" group-title="Radio",📻 SWR4 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr4bw/play.mp3
-#EXTINF:-1 tvg-id="hr1" tvg-name="hr1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr1.png" group-title="Radio",hr1
+#EXTINF:-1 tvg-id="hr1" tvg-chno="1017" tvg-name="📻 hr1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr1.png" group-title="Radio",📻 hr1
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="hr3" tvg-name="hr3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr3.png" group-title="Radio",hr3
+#EXTINF:-1 tvg-id="hr3" tvg-chno="1018" tvg-name="📻 hr3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr3.png" group-title="Radio",📻 hr3
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="hr-info" tvg-name="hr-info" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr-info.png" group-title="Radio",hr-info
+#EXTINF:-1 tvg-id="hr-info" tvg-chno="1019" tvg-name="📻 hr-info" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-hr-info.png" group-title="Radio",📻 hr-info
 https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="rbb 88.8" tvg-name="rbb 88.8" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-rbb-88-8.png" group-title="Radio",rbb 88.8
+#EXTINF:-1 tvg-id="rbb 88.8" tvg-chno="1020" tvg-name="📻 rbb 88.8" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-rbb-88-8.png" group-title="Radio",📻 rbb 88.8
 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
-#EXTINF:-1 tvg-id="radioeins" tvg-name="radioeins" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-radioeins.png" group-title="Radio",radioeins
+#EXTINF:-1 tvg-id="radioeins" tvg-chno="1021" tvg-name="📻 radioeins" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-radioeins.png" group-title="Radio",📻 radioeins
 https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
-#EXTINF:-1 tvg-id="Antenne Brandenburg" tvg-name="Antenne Brandenburg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-antenne-brandenburg.png" group-title="Radio",Antenne Brandenburg
+#EXTINF:-1 tvg-id="Antenne Brandenburg" tvg-chno="1022" tvg-name="📻 Antenne Brandenburg" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-antenne-brandenburg.png" group-title="Radio",📻 Antenne Brandenburg
 https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
-#EXTINF:-1 tvg-id="Fritz" tvg-name="Fritz" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-fritz.png" group-title="Radio",Fritz
+#EXTINF:-1 tvg-id="Fritz" tvg-chno="1023" tvg-name="📻 Fritz" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-fritz.png" group-title="Radio",📻 Fritz
 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
-#EXTINF:-1 tvg-id="Radio Bremen Bremen Eins" tvg-name="Radio Bremen Bremen Eins" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-radio-bremen-bremen-eins.png" group-title="Radio",Radio Bremen Bremen Eins
+#EXTINF:-1 tvg-id="Radio Bremen Bremen Eins" tvg-chno="1024" tvg-name="📻 Radio Bremen Bremen Eins" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-radio-bremen-bremen-eins.png" group-title="Radio",📻 Radio Bremen Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="SR 1" tvg-name="SR 1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-sr-1.png" group-title="Radio",SR 1
+#EXTINF:-1 tvg-id="SR 1" tvg-chno="1025" tvg-name="📻 SR 1" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-sr-1.png" group-title="Radio",📻 SR 1
 https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="SR 3" tvg-name="SR 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-sr-3.png" group-title="Radio",SR 3
+#EXTINF:-1 tvg-id="SR 3" tvg-chno="1026" tvg-name="📻 SR 3" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/radio-sr-3.png" group-title="Radio",📻 SR 3
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3

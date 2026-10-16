@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-dw-english.png" group-title="International",DW English
+#EXTINF:-1 tvg-id="DW.de" tvg-chno="500" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-dw-english.png" group-title="International",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-france-24-english.png" group-title="International",France 24 English
+#EXTINF:-1 tvg-id="France24.fr" tvg-chno="501" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-france-24-english.png" group-title="International",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-france-24-english.png" group-title="International",France 24 Français
+#EXTINF:-1 tvg-id="France24.fr" tvg-chno="502" tvg-name="France 24 Français" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-france-24-english.png" group-title="International",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-nhk-world-japan.png" group-title="International",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-chno="503" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-nhk-world-japan.png" group-title="International",NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-arirang-tv.png" group-title="International",Arirang TV
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-chno="504" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/intl-arirang-tv.png" group-title="International",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
