@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Deutschlandfunk" tvg-name="Deutschlandfunk" group-title="Radio",Deutschlandfunk
+#EXTINF:-1 tvg-id="Deutschlandfunk" tvg-name="Deutschlandfunk" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deutschlandfunk_Logo_2017.svg?width=256" group-title="Radio",Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="Deutschlandfunk Kultur" tvg-name="Deutschlandfunk Kultur" group-title="Radio",Deutschlandfunk Kultur
+#EXTINF:-1 tvg-id="Deutschlandfunk Kultur" tvg-name="Deutschlandfunk Kultur" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deutschlandfunk_Kultur_Logo_2017.svg?width=256" group-title="Radio",Deutschlandfunk Kultur
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="Deutschlandfunk Nova" tvg-name="Deutschlandfunk Nova" group-title="Radio",Deutschlandfunk Nova
+#EXTINF:-1 tvg-id="Deutschlandfunk Nova" tvg-name="Deutschlandfunk Nova" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deutschlandfunk_Nova_Logo_2017.svg?width=256" group-title="Radio",Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
-#EXTINF:-1 tvg-id="WDR 1LIVE" tvg-name="WDR 1LIVE" group-title="Radio",WDR 1LIVE
+#EXTINF:-1 tvg-id="WDR 1LIVE" tvg-name="WDR 1LIVE" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WDR_1LIVE_Logo_2016.svg?width=256" group-title="Radio",WDR 1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 2" tvg-name="WDR 2" group-title="Radio",WDR 2
+#EXTINF:-1 tvg-id="WDR 2" tvg-name="WDR 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WDR_2_logo_2012.svg?width=256" group-title="Radio",WDR 2
 https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 3" tvg-name="WDR 3" group-title="Radio",WDR 3
+#EXTINF:-1 tvg-id="WDR 3" tvg-name="WDR 3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WDR_3_logo_2012.svg?width=256" group-title="Radio",WDR 3
 https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="WDR 5" tvg-name="WDR 5" group-title="Radio",WDR 5
+#EXTINF:-1 tvg-id="WDR 5" tvg-name="WDR 5" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WDR_5_logo.svg?width=256" group-title="Radio",WDR 5
 https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR 2" tvg-name="NDR 2" group-title="Radio",NDR 2
+#EXTINF:-1 tvg-id="NDR 2" tvg-name="NDR 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NDR_2_Logo.svg?width=256" group-title="Radio",NDR 2
 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR Info" tvg-name="NDR Info" group-title="Radio",NDR Info
+#EXTINF:-1 tvg-id="NDR Info" tvg-name="NDR Info" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NDR_Info_Logo_2019.svg?width=256" group-title="Radio",NDR Info
 https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="NDR Kultur" tvg-name="NDR Kultur" group-title="Radio",NDR Kultur
+#EXTINF:-1 tvg-id="NDR Kultur" tvg-name="NDR Kultur" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NDR_Kultur_Logo.svg?width=256" group-title="Radio",NDR Kultur
 https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="Bayern 1" tvg-name="Bayern 1" group-title="Radio",Bayern 1
+#EXTINF:-1 tvg-id="Bayern 1" tvg-name="Bayern 1" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bayern_1_Logo_2025.svg?width=256" group-title="Radio",Bayern 1
 https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
-#EXTINF:-1 tvg-id="Bayern 3" tvg-name="Bayern 3" group-title="Radio",Bayern 3
+#EXTINF:-1 tvg-id="Bayern 3" tvg-name="Bayern 3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bayern_3_Logo_alt.svg?width=256" group-title="Radio",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 tvg-id="BR-Klassik" tvg-name="BR-Klassik" group-title="Radio",BR-Klassik
+#EXTINF:-1 tvg-id="BR-Klassik" tvg-name="BR-Klassik" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/BR_Klassik_Logo_2024.svg?width=256" group-title="Radio",BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
-#EXTINF:-1 tvg-id="SWR3" tvg-name="SWR3" group-title="Radio",SWR3
+#EXTINF:-1 tvg-id="SWR3" tvg-name="SWR3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SWR3_Logo.svg?width=256" group-title="Radio",SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
-#EXTINF:-1 tvg-id="SWR1 Baden-Württemberg" tvg-name="SWR1 Baden-Württemberg" group-title="Radio",SWR1 Baden-Württemberg
+#EXTINF:-1 tvg-id="SWR1 Baden-Württemberg" tvg-name="SWR1 Baden-Württemberg" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SWR1_Logo_2019.svg?width=256" group-title="Radio",SWR1 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
-#EXTINF:-1 tvg-id="SWR2" tvg-name="SWR2" group-title="Radio",SWR2
+#EXTINF:-1 tvg-id="SWR2" tvg-name="SWR2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SWR2_Logo_2011.svg?width=256" group-title="Radio",SWR2
 https://liveradio.swr.de/sw282p3/swr2/play.mp3
-#EXTINF:-1 tvg-id="SWR4 Baden-Württemberg" tvg-name="SWR4 Baden-Württemberg" group-title="Radio",SWR4 Baden-Württemberg
+#EXTINF:-1 tvg-id="SWR4 Baden-Württemberg" tvg-name="SWR4 Baden-Württemberg" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SWR4_Baden-Württemberg_Logo.svg?width=256" group-title="Radio",SWR4 Baden-Württemberg
 https://liveradio.swr.de/sw282p3/swr4bw/play.mp3
-#EXTINF:-1 tvg-id="hr1" tvg-name="hr1" group-title="Radio",hr1
+#EXTINF:-1 tvg-id="hr1" tvg-name="hr1" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HR1_Logo_2023.svg?width=256" group-title="Radio",hr1
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="hr3" tvg-name="hr3" group-title="Radio",hr3
+#EXTINF:-1 tvg-id="hr3" tvg-name="hr3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HR3_Logo_2023.svg?width=256" group-title="Radio",hr3
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="hr-info" tvg-name="hr-info" group-title="Radio",hr-info
+#EXTINF:-1 tvg-id="hr-info" tvg-name="hr-info" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HR-Info_Logo_2023.svg?width=256" group-title="Radio",hr-info
 https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="rbb 88.8" tvg-name="rbb 88.8" group-title="Radio",rbb 88.8
+#EXTINF:-1 tvg-id="rbb 88.8" tvg-name="rbb 88.8" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Rbb_88.8_Logo_2019.svg?width=256" group-title="Radio",rbb 88.8
 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
-#EXTINF:-1 tvg-id="radioeins" tvg-name="radioeins" group-title="Radio",radioeins
+#EXTINF:-1 tvg-id="radioeins" tvg-name="radioeins" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Rbb_radioeins_Logo_2021.svg?width=256" group-title="Radio",radioeins
 https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
-#EXTINF:-1 tvg-id="Antenne Brandenburg" tvg-name="Antenne Brandenburg" group-title="Radio",Antenne Brandenburg
+#EXTINF:-1 tvg-id="Antenne Brandenburg" tvg-name="Antenne Brandenburg" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Antenne_Brandenburg_2019.svg?width=256" group-title="Radio",Antenne Brandenburg
 https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
-#EXTINF:-1 tvg-id="Fritz" tvg-name="Fritz" group-title="Radio",Fritz
+#EXTINF:-1 tvg-id="Fritz" tvg-name="Fritz" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Fritz_2020.svg?width=256" group-title="Radio",Fritz
 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
-#EXTINF:-1 tvg-id="Radio Bremen Bremen Eins" tvg-name="Radio Bremen Bremen Eins" group-title="Radio",Radio Bremen Bremen Eins
+#EXTINF:-1 tvg-id="Radio Bremen Bremen Eins" tvg-name="Radio Bremen Bremen Eins" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bremen_Eins_Logo_2001.svg?width=256" group-title="Radio",Radio Bremen Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="SR 1" tvg-name="SR 1" group-title="Radio",SR 1
+#EXTINF:-1 tvg-id="SR 1" tvg-name="SR 1" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SR_1_Logo_2017.svg?width=256" group-title="Radio",SR 1
 https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="SR 3" tvg-name="SR 3" group-title="Radio",SR 3
+#EXTINF:-1 tvg-id="SR 3" tvg-name="SR 3" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SR_3_Logo_2024.svg?width=256" group-title="Radio",SR 3
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="International",DW English
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="International",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 English" group-title="International",France 24 English
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" group-title="International",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" group-title="International",France 24 Français
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Français" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" group-title="International",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" group-title="International",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NHK_WORLD-JAPAN_logo.svg?width=256" group-title="International",NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang TV" group-title="International",Arirang TV
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Arirang-TV-Logo.svg?width=256" group-title="International",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
