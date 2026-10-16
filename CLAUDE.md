@@ -7,3 +7,4 @@
 - **URL/Port:** kein Port. Playlist-URL: https://raw.githubusercontent.com/L834-57/iptv-de/main/de-public.m3u
 - Neue Sender: Zeile in `die passende .tsv` ergänzen (Tabs!), `build.py` und `check.sh` laufen lassen, committen.
 - Keine Streams von Drittanbietern/Weiterverteilern aufnehmen, nur offizielle Sender-CDNs.
+- Logos liegen als Dateien in `logos/` (selbst gehostet, weil Wikimedia/imgur bei vielen parallelen Abrufen drosseln). Neues Logo: Datei nach `logos/` legen und die Raw-URL in die 5. Spalte der .tsv eintragen.
