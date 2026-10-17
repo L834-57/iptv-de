@@ -6,7 +6,7 @@ ZDFinfo	ZDFinfo.de	Nachrichten	https://zdf-hls-17.akamaized.net/hls/live/2016500
 phoenix	PHOENIX.de	Nachrichten	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-phoenix.png
 tagesschau24	tagesschau24.de	Nachrichten	https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-tagesschau24.png
 arte	ARTE.de	Kultur	https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-arte.png
-KiKA	KIKA.de	Kinder	https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-kika.png
+KiKA	KIKA.de	Kinder	https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-kika.png
 ARD-alpha	ARD.alpha.de	Bildung	https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-ard-alpha.png
 BR Fernsehen	BR.de	Regional	https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-br-fernsehen.png
 hr-fernsehen	HR.de	Regional	https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8	https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-hr-fernsehen.png

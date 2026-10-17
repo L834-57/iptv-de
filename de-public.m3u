@@ -16,7 +16,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="ARTE.de" tvg-chno="8" tvg-name="arte" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-arte.png" group-title="Kultur",arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-id="KIKA.de" tvg-chno="9" tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-kika.png" group-title="Kinder",KiKA
-https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="ARD.alpha.de" tvg-chno="10" tvg-name="ARD-alpha" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-ard-alpha.png" group-title="Bildung",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="BR.de" tvg-chno="11" tvg-name="BR Fernsehen" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-br-fernsehen.png" group-title="Regional",BR Fernsehen
