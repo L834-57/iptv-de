@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-chno="1" tvg-name="Das Erste" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-das-erste.png" group-title="Allgemein",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-chno="2" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-zdf.png" group-title="Allgemein",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-chno="3" tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/L834-57/iptv-de/main/logos/tv-zdfneo.png" group-title="Allgemein",ZDFneo
